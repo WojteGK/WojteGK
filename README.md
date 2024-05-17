@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I finished 12 years of musical education on guitar!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
