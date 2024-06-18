@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gorecki.dev@gmail.com**
 
-- ⚡ Fun fact **I finished 12 years of musical education on guitar!**
+- ⚡ Random fact about me **I finished 12 years of musical education on guitar!**
 
 <p align="left">
 </p>
