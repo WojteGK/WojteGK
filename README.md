@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wojtegk" alt="wojtegk" /></a> </p>
 
-- 🔭 I’m currently working on [my own page](wojtegk.github.io/)
+- 🔭 I’m currently working on [my own page](https://wojtegk.github.io/)
 
 - 🌱 I’m currently learning **React, Docker, Java**
 
