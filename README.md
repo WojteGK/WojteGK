@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Docker, Java**
 
-- 👨‍💻 All of my projects are available at [wojtegk.github.io/projects](wojtegk.github.io/projects)
+- 👨‍💻 All of my projects are available [here](https://wojtegk.github.io) in projects section
 
 - 📫 How to reach me **gorecki.dev@gmail.com**
 
