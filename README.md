@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wojtegk" alt="wojtegk" /></a> </p>
 
-- 🔭 I’m currently working on [my own page](https://wojtegk.github.io/)
-
-- 🌱 I’m currently learning **React, Docker, Java**
-
-- 👨‍💻 All of my projects are available [here](https://wojtegk.github.io) in projects section
-
-- 📫 How to reach me **gorecki.dev@gmail.com**
-
-- ⚡ Random fact about me **I finished 12 years of musical education on guitar!**
-
 <p align="left">
 </p>
 
